@@ -18,6 +18,6 @@ namespace DemoKisseKatt
             //dog.PrintInfo();
             Console.WriteLine(dog);
             Console.ReadLine();
-        }
+        } 
     }
 }
