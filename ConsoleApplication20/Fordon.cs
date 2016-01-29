@@ -10,7 +10,7 @@ namespace ConsoleApplication20
     {
         public virtual void Print()
         {
-            Console.WriteLine("Fordon");
+            Console.WriteLine("Fordon"); 
         }
     }
 }
